@@ -4,7 +4,7 @@ import streamlit as st
 from snowflake.snowpark.functions import col
 
 # Write directly to the app
-st.title(f"Example Streamlit App :cup_with_straw: {st.__version__}")
+st.title(f"Example of deployed Streamlit App :cup_with_straw: {st.__version__}")
 st.write(
   """Replace this example with your own code!
   **And if you're new to Streamlit,** check
